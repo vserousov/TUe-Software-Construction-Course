@@ -1,0 +1,17 @@
+Author: Serousov Vitaly
+Group: 201 SE
+Date: 15.10.2014
+-----8<----- cut line -----8<-----
+
+What are the advantages of DiceGameDecomposed using data decomposition?
+[Write each advantage as a separate *-item.]
+
+  * Reducing the number of declared variables.
+  * One type can contain a lot of variables.
+  * One parameter can be used instead of few parameters.
+
+What are the disadvantages of DiceGameDecomposed using data decomposition?
+[Write each disadvantage as a separate *-item.]
+
+  * The structure of data shouldn't be changed, because client must update his code.
+  * If the result is changed, because client must update his code.
